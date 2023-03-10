@@ -25,7 +25,7 @@
 - __Bloomberg LP — Data Analyst (Fixed Income & ESG)__
     - <small>_from nov/2012 until -_</small>
 
-- __Siemens — Economist
+-   Siemens — Economist
     - <small>_from nov/2011 until nov/2012_</small>
 
 - __Banco Santander — Treasury__
@@ -164,3 +164,10 @@
 ### Publications:
 <p>Curriculum Lattes<br/>
 <a href="http://lattes.cnpq.br/"><small>http://lattes.cnpq.br/</small></a></p>
+
+
+### Bookmarks:
+    - <small>[Spreadsheet](assets/files/bookmarks.xlsx)</small>
+
+
+    
