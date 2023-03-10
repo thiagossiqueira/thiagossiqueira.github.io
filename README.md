@@ -166,8 +166,10 @@
 <a href="http://lattes.cnpq.br/"><small>http://lattes.cnpq.br/</small></a></p>
 
 
-### Bookmarks:
-    - <small>[Spreadsheet](assets/files/bookmarks.xlsx)</small>
 
+### Reference material:
+- __Bookmarks__
+    - <small>[links](assets/files/bookmarks.xlsx)</small>
+    
 
     
